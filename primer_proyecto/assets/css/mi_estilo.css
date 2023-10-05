@@ -1,0 +1,108 @@
+/*body*/
+
+/*top bar*/
+.topbar_fondo{
+    background: linear-gradient( 90.5deg,  rgba(255,207,139,0.50) 1.1%, rgba(255,207,139,1) 81.3% );
+    font-size: 15px;
+}
+div a{
+    text-decoration: none;
+    color: black;
+
+}
+/*barra de navegacion*/
+
+.btn{
+    background: rgb(0, 0, 0);
+}
+.cont_nav{
+    width: 120px;
+    height: 100px;
+}
+.logo_nav{
+    object-fit:cover;
+    width: 100%;
+    height: 100%;
+}
+/*section*/
+/*eslogan*/
+.eslogan{
+    background: linear-gradient( 90.5deg,  rgba(255,207,139,0.50) 1.1%, rgba(255,207,139,1) 81.3% );
+    padding-bottom: 30px;
+}
+.cont_eslogan{
+    height: 100%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+/*catalago*/
+/*presentacion*/
+.catalogo{
+    background: linear-gradient( 90.5deg,  rgba(255,207,139,0.50) 1.1%, rgba(255,207,139,1) 81.3% );
+    padding-bottom: 30px;
+}
+.section-title{
+    text-align: center;
+    font-style: italic;
+}
+.section-title h2{
+    text-decoration:underline;
+}
+/*muebles*/
+.seccion_muebles{
+    color: black;
+
+}
+.col_carrusel{
+    margin: 10px;
+    padding: 10px;
+}
+
+.seccion_muebles img{
+    object-fit:cover;
+    width: 100%;
+    height: 100%;
+}
+/*sobre nosotros*/
+.quienes_somos{
+    background: linear-gradient( 90.5deg,  rgba(255,207,139,0.50) 1.1%, rgba(255,207,139,1) 81.3% );
+    padding-bottom: 30px;
+}
+.perfiles h6{
+    font-size: 15px;
+}
+.perfiles img{
+    object-fit: cover;
+    border-radius:60%;
+    width: 100%;
+    height: 100%;
+}
+
+.titulo_nosotros{
+    text-decoration:underline;
+}
+.colum_referencia div{
+    margin-top: 55px;
+    font-size: 12px;
+}
+/*iniciar sesion*/
+.login{
+    background: linear-gradient( 90.5deg,  rgba(255,207,139,0.50) 1.1%, rgba(255,207,139,1) 81.3% );
+    padding-bottom: 30px;
+}
+/*registros*/
+
+.registro{
+    background: linear-gradient( 90.5deg,  rgba(255,207,139,0.50) 1.1%, rgba(255,207,139,1) 81.3% );
+    padding-bottom: 30px;
+}
+.inicio_sesion a{
+    text-decoration:underline;
+}
+
+/*pie de pagina*/
+footer{
+    font-size: 10px;
+}
+footer strong{
+    text-decoration: underline;
+}
